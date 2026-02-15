@@ -8,7 +8,7 @@ import joblib
 # ------------------------------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-MODEL_PATH = os.path.join(BASE_DIR, "model.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "fuel_effeciency_deplonymet.pkl")
 ENCODER_PATH = os.path.join(BASE_DIR, "label_encoder.pkl")
 
 # ------------------------------------------------
